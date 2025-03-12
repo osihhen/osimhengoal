@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+  font-size: 20px;
+  scroll-behaviour: smooth;
+}
+body {
+  
+  margin: 50px auto;
+  color: #000;
+  line-height: 1.5;
+  background: rgb(245, 245, 245);
+}
+
